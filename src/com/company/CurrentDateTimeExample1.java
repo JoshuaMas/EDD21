@@ -8,6 +8,6 @@ public class CurrentDateTimeExample1 {
 
         LocalDateTime now = LocalDateTime.now();
 
-        System.out.println("Joshua_Mas_Mayer"+dtf.format(now));
+        System.out.println("JoshuaMasMayer"+dtf.format(now));
     }
 }
